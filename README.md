@@ -1,2 +1,0 @@
-# Quines
-self-replicating codes
